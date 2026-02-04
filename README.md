@@ -5,7 +5,7 @@ A transportation management app built with Laravel 11 and Filament v3.
 Manages companies, drivers, vehicles, and trips with overlapping prevention and availability checks.
 
 Setup
-git clone <repo-url>
+git clone https://github.com/azmy-developer/hypersender-transmanage.git
 cd hypersender-transmanage
 composer install
 cp .env.example .env
